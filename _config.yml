@@ -97,8 +97,8 @@ author:
   name             : "MinJong Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Today I Learned in **R, Python, SQL**."
-  location         : "Somewhere"
-  email            :
+  location         : "Korea"
+  email            : "alswhd07@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
