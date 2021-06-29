@@ -1,13 +1,15 @@
 # main links
 main:
-  - title: "Github"
-    url: https://github.com/min-dora/data_dora
+  - title: "about"
+    url: /about/
   - title: "Categories"
     url: /categories/
   - title: "posts"
     url: /year-archive/
   - title: "tags"
     url: /tags/
+  - title: "Github"
+    url: https://github.com/min-dora/data_dora
 
 
 
