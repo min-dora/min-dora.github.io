@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Data Dora"
+title                    : "mindora: Data 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MinJong Kim"
 description              : "An amazing website."
 url                      : "https://min-dora.github.io/" # the base hostname & protocol for your site e.g. #"https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "min-dota/data_dora" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "min-dora/data_dora" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/min1_circle.png" # path of logo image to display in the masthead, e.g. #"/assets/images/min1.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "MinJong Kim"
   avatar           : "/assets/images/min1_circle.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Today I Learned in **R, Python, SQL**."
+  bio              : "TIL(Today I Learned)부터 기존 프로젝트를 하면서 정리한 내용을 올리고 있습니다. <br>in **R, Python, SQL**."
   location         : "Korea"
   email            : # distinct email "alswhd07@gmail.com"
   links:
