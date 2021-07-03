@@ -280,4 +280,4 @@ defaults:
       comments: # true
       share: true
       related: true
-      sidebar_main: ture
+      sidebar_main: true
