@@ -5,6 +5,7 @@ toc_sticky: true
 toc_label: "Introduce"
 author_profile: true
 sidebar_main: true
+layout: single
 ---
 
 ### 📁 소개<br>
