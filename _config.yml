@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "MinJong Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/min1_circle.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Today I Learned in **R, Python, SQL**."
   location         : "Korea"
   email            : # distinct email "alswhd07@gmail.com"
