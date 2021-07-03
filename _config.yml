@@ -20,7 +20,7 @@ title                    : "Dora's Data Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MinJong Kim"
-description              : "An amazing website."
+description              : "데이터 분석 blog입니다:)"
 url                      : "https://min-dora.github.io/" # the base hostname & protocol for your site e.g. #"https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "min-dora/data_dora" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "MinJong Kim"
   avatar           : "/assets/images/min1_circle.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "TIL(Today I Learned)부터 기존 프로젝트를 하면서 정리한 내용을 올리고 있습니다. <br>in **R, Python, SQL**."
+  bio              : "TIL(Today I Learned)부터 기존 프로젝트를 하면서 정리한 내용을 올리고 있습니다. <br><br>자세한 소개는 **Introduce**카테고리를 참고해 주세요. <br><br>in **R, Python, SQL**."
   location         : "Korea"
   email            : # distinct email "alswhd07@gmail.com"
   links:
