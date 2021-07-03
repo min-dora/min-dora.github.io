@@ -8,7 +8,6 @@ tags:
 
 toc: true  
 toc_sticky: true 
-layout: post
 author_profile: true
 ---
 
