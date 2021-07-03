@@ -5,9 +5,11 @@ categories: Python
 tags: 
 - Python
 - blog
+
 toc: true  
 toc_sticky: true 
 layout: post
+author_profile: true
 ---
 
 Python을 사용하여 아래의 항목에 대해서 포스팅할 예정입니다. <br>
