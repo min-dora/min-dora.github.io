@@ -13,8 +13,10 @@ TIL(Today I learned) 및 데이터분석에 대한 내용을 기록하는 블로
 궁금하시거나 연락을 원하시면 좌측에 Email로 연락 부탁드립니다🙂<br>
 
 ###  💻 Technical level
+<table>
+
 프로그램 | 단계
----|---
+--- | ---:
 R | 상
 Python | 중
 SQL | 중
