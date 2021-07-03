@@ -4,7 +4,6 @@ toc: true
 toc_sticky: true
 toc_label: "Introduce"
 author_profile: true
-sidebar_main: true
 layout: single
 ---
 
@@ -17,7 +16,7 @@ layout: single
 
 ###  💻 Technical Level<br>
 
----
+
 |프로그램|단계|
 |:---:|:---:|
 |R|상|
@@ -26,7 +25,8 @@ layout: single
 |SPSS|중|
 |SAS|하|
 |Tableau|하|
----
+
+
 
 ### 👨‍🎓 학력
 * 한남대학교 경영학과 학사 (2015.03 ~ 2021.02)
