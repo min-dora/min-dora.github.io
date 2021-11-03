@@ -8,11 +8,11 @@ layout: single
 ---
 
 ### 📁 소개<br>
-**TIL(Today I learned)** 및 **데이터분석**에 대한 내용을 기록하는 블로그입니다.
+**TIL(Today I learned)** 과 일상을 기록하는 블로그입니다.
 
-현재 `R`을 위주로 공부를 하며, 앞으로 `Python`, `SQL`, `Tableau`에 대한 글도 게시할 예정입니다.<br>
-주로 교통데이터를 다뤘으며, 그 외에 다양한 데이터도 다루고 있습니다.<br>
-궁금하시거나 연락을 원하시면 좌측에 Email로 연락 부탁드립니다🙂<br>
+주로 R을 다루고, Python에 대한 내용도 포스팅할 예정입니다.
+
+궁금하신 내용이나 연락을 원하시면 좌측에 `Email` 로 연락 부탁드립니다🙂<br>
 
 ###  💻 Technical Level<br>
 
@@ -24,7 +24,7 @@ layout: single
 |SQL|중|
 |SPSS|중|
 |SAS|하|
-|Tableau|하|
+
 
 
 
