@@ -39,7 +39,7 @@ author_profile: true
 레오폴드의 경우 fc660C 모델이 가장 대중적이며 토프레 키보드에서 입문용이라고 생각이 들었습니다.
 다만 레오폴드 fc660C의 경우 블루투스 개조를 하지 않는 이상 무선이 안된다는 점과 케이블이 아직도 mini to B타입을 쓴다는 점에서 탈락 되었습니다.
 
-<img src= "/assets/images/leopld.png" width = "50%", height ="50%">
+<img src= "/assets/images/leopld.png" width = "50%" height ="50%">
 
 리얼포스의 경우 R2
 
